@@ -1,0 +1,208 @@
+{
+  "releases": {
+    "stable": [
+      {
+        "id": "v2.2.17.dbac2b1",
+        "title": "Meshtastic Firmware 2.2.17.dbac2b1 Beta",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.17.dbac2b1",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.17.dbac2b1/firmware-2.2.17.dbac2b1.zip"
+      },
+      {
+        "id": "v2.2.16.1c6acfd",
+        "title": "Meshtastic Firmware 2.2.16.1c6acfd Beta",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.16.1c6acfd",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.16.1c6acfd/firmware-2.2.16.1c6acfd.zip"
+      },
+      {
+        "id": "v2.2.15.31c4693",
+        "title": "Meshtastic Firmware 2.2.15.31c4693 Beta",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.15.31c4693",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.15.31c4693/firmware-2.2.15.31c4693.zip"
+      },
+      {
+        "id": "v2.2.14.57542ce",
+        "title": "Meshtastic Firmware 2.2.14.57542ce Beta",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.14.57542ce",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.14.57542ce/firmware-2.2.14.57542ce.zip"
+      },
+      {
+        "id": "v2.2.13.f570204",
+        "title": "Meshtastic Firmware 2.2.13.f570204 Beta",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.13.f570204",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.13.f570204/firmware-2.2.13.f570204.zip"
+      },
+      {
+        "id": "v2.2.11.10265aa",
+        "title": "Meshtastic Firmware 2.2.11.10265aa Beta",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.11.10265aa",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.11.10265aa/firmware-2.2.11.10265aa.zip"
+      },
+      {
+        "id": "v2.1.23.04bbdc6",
+        "title": "Meshtastic Firmware 2.1.23.04bbdc6 Beta",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.1.23.04bbdc6",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.1.23.04bbdc6/firmware-2.1.23.04bbdc6.zip"
+      },
+      {
+        "id": "v2.1.22.191a69d",
+        "title": "Meshtastic Firmware 2.1.22.191a69d Beta",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.1.22.191a69d",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.1.22.191a69d/firmware-2.1.22.191a69d.zip"
+      },
+      {
+        "id": "v2.1.21.97d7a89",
+        "title": "Meshtastic Firmware 2.1.21.97d7a89 Beta",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.1.21.97d7a89",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.1.21.97d7a89/firmware-2.1.21.97d7a89.zip"
+      },
+      {
+        "id": "v2.1.19.eb7025f",
+        "title": "Meshtastic Firmware 2.1.19.eb7025f Beta",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.1.19.eb7025f",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.1.19.eb7025f/firmware-2.1.19.eb7025f.zip"
+      },
+      {
+        "id": "v2.1.17.7ca2e81",
+        "title": "Meshtastic Firmware 2.1.17.7ca2e81 Beta",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.1.17.7ca2e81",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.1.17.7ca2e81/firmware-2.1.17.7ca2e81.zip"
+      },
+      {
+        "id": "v2.1.15.cd78723",
+        "title": "Meshtastic Firmware 2.1.15.cd78723 Beta",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.1.15.cd78723",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.1.15.cd78723/firmware-2.1.15.cd78723.zip"
+      },
+      {
+        "id": "v2.1.14.99a31c1",
+        "title": "Meshtastic Firmware 2.1.14.99a31c1 Beta",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.1.14.99a31c1",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.1.14.99a31c1/firmware-2.1.14.99a31c1.zip"
+      }
+    ],
+    "alpha": [
+      {
+        "id": "v2.2.19.8f6a283",
+        "title": "Meshtastic Firmware 2.2.19.8f6a283 Alpha",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.19.8f6a283",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.19.8f6a283/firmware-2.2.19.8f6a283.zip"
+      },
+      {
+        "id": "v2.2.18.e9bde80",
+        "title": "Meshtastic Firmware 2.2.18.e9bde80 Alpha",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.18.e9bde80",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.18.e9bde80/firmware-2.2.18.e9bde80.zip"
+      },
+      {
+        "id": "v2.2.12.092e6f2",
+        "title": "Meshtastic Firmware 2.2.12.092e6f2 Beta",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.12.092e6f2",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.12.092e6f2/firmware-2.2.12.092e6f2.zip"
+      },
+      {
+        "id": "v2.2.10.7cebd79",
+        "title": "Meshtastic Firmware 2.2.10.7cebd79 Alpha",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.10.7cebd79",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.10.7cebd79/firmware-2.2.10.7cebd79.zip"
+      },
+      {
+        "id": "v2.2.9.47301a5",
+        "title": "Meshtastic Firmware 2.2.9.47301a5 Alpha",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.9.47301a5",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.9.47301a5/firmware-2.2.9.47301a5.zip"
+      },
+      {
+        "id": "v2.2.7.e8970ad",
+        "title": "Meshtastic Firmware 2.2.7.e8970ad Alpha",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.7.e8970ad",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.7.e8970ad/firmware-2.2.7.e8970ad.zip"
+      },
+      {
+        "id": "v2.2.4.3bcab0e",
+        "title": "Meshtastic Firmware 2.2.4.3bcab0e Alpha",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.4.3bcab0e",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.4.3bcab0e/firmware-2.2.4.3bcab0e.zip"
+      },
+      {
+        "id": "v2.2.3.282cc0b",
+        "title": "Meshtastic Firmware 2.2.3.282cc0b Alpha",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.3.282cc0b",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.3.282cc0b/firmware-2.2.3.282cc0b.zip"
+      },
+      {
+        "id": "v2.2.2.f35c7be",
+        "title": "Meshtastic Firmware 2.2.2.f35c7be Alpha",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.2.f35c7be",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.2.f35c7be/firmware-2.2.2.f35c7be.zip"
+      },
+      {
+        "id": "v2.2.1.fb5f2e4",
+        "title": "Meshtastic Firmware 2.2.1.fb5f2e4 Alpha",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.1.fb5f2e4",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.1.fb5f2e4/firmware-2.2.1.fb5f2e4.zip"
+      },
+      {
+        "id": "v2.2.0.9f6584b",
+        "title": "Meshtastic Firmware 2.2.0.9f6584b Alpha",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.2.0.9f6584b",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.2.0.9f6584b/firmware-2.2.0.9f6584b.zip"
+      },
+      {
+        "id": "v2.1.20.470363d",
+        "title": "Meshtastic Firmware 2.1.20.470363d Alpha",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.1.20.470363d",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.1.20.470363d/firmware-2.1.20.470363d.zip"
+      },
+      {
+        "id": "v2.1.18.de53280",
+        "title": "Meshtastic Firmware 2.1.18.de53280 Alpha",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.1.18.de53280",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.1.18.de53280/firmware-2.1.18.de53280.zip"
+      },
+      {
+        "id": "v2.1.16.a2c5b92",
+        "title": "Meshtastic Firmware 2.1.16.a2c5b92 Alpha",
+        "page_url": "https://github.com/meshtastic/firmware/releases/tag/v2.1.16.a2c5b92",
+        "zip_url": "https://github.com/meshtastic/firmware/releases/download/v2.1.16.a2c5b92/firmware-2.1.16.a2c5b92.zip"
+      }
+    ]
+  },
+  "pullRequests": [
+    {
+      "id": "3081",
+      "title": "[BOARD] Adds Waveshare ESP32-S3-PICO",
+      "page_url": "https://github.com/meshtastic/firmware/pull/3081",
+      "zip_url": "https://github.com/meshtastic/artifacts/blob/device/pr3081-firmware-2.2.20.d3bee28.zip?raw=true"
+    },
+    {
+      "id": "2960",
+      "title": "Make STM compile again and update toolchain.",
+      "page_url": "https://github.com/meshtastic/firmware/pull/2960",
+      "zip_url": "https://github.com/meshtastic/artifacts/blob/device/pr/pr2960-firmware-2.2.14.c7fa4fc.zip?raw=true"
+    },
+    {
+      "id": "2919",
+      "title": "WIP LoRAType",
+      "page_url": "https://github.com/meshtastic/firmware/pull/2919",
+      "zip_url": "https://github.com/meshtastic/artifacts/blob/device/pr/pr2919-firmware-2.2.13.839a0e4.zip?raw=true"
+    },
+    {
+      "id": "2882",
+      "title": "Add board and variant definitions for EBYTE_ESP32-S3",
+      "page_url": "https://github.com/meshtastic/firmware/pull/2882",
+      "zip_url": "https://github.com/meshtastic/artifacts/blob/device/pr/pr2882-firmware-2.2.14.627b285.zip?raw=true"
+    },
+    {
+      "id": "2856",
+      "title": "Next Hop-based routing with fallback to flooding",
+      "page_url": "https://github.com/meshtastic/firmware/pull/2856",
+      "zip_url": "https://github.com/meshtastic/artifacts/blob/device/pr/pr2856-firmware-2.2.10.44dc270.zip?raw=true"
+    },
+    {
+      "id": "2378",
+      "title": "WIP Ambiq Apollo3 support",
+      "page_url": "https://github.com/meshtastic/firmware/pull/2378",
+      "zip_url": "https://github.com/meshtastic/artifacts/blob/device/pr/pr2378-firmware-2.2.14.7d5716d.zip?raw=true"
+    }
+  ]
+}
